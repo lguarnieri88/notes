@@ -11,9 +11,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-I'm Leandro, and this is where I put most of my notes. More info [[About | here]].
-
-Trying out another link [[cats]]
+I'm Leandro, and this is where I put most of my notes. More info at the <a class="internal-link" href="/about">About</a> page.
 
 <style>
   .wrapper {
