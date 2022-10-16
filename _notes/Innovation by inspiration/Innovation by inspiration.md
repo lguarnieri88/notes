@@ -18,4 +18,4 @@ Here are 7 techniques/ideas to approach innovation and maximize chances of succe
 * [[Divergent Minset]]
 * [[Embrace Distractions]]
 * [[Distinctive selection criteria]]
-* [[Comission a portfolio]]
+* [[Commission a portfolio]]
