@@ -12,10 +12,10 @@ Another important lesson is to start thinking in terms of portfolios and stop th
 
 Here are 7 techniques/ideas to approach innovation and maximize chances of success:
 
-* [[Bring Diverse Perspetives]]
+* [[Bring Diverse Perspectives]]
 * [[Framing]]
 * [[Analogous exploration]]
-* [[Divergent Minset]]
+* [[Divergent Mindset]]
 * [[Embrace Distractions]]
 * [[Distinctive selection criteria]]
 * [[Commission a portfolio]]
