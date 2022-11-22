@@ -13,9 +13,11 @@ The rating can be loosely interpreted as:
 
 
 **[[The Dip]]** - 4 - 13/11/2022
+
 Book about quitting. Contrary to common belief (don’t quit!), the book tries to show how not only should we not consider quitting shameful, but strategic. Learn to know where you stand, and make a decision, the options are to carry on with the difficulties and end up stronger on the other side or quit to focus your energy elsewhere. Pick your battles. Many of the arguments resonate with both [[The 80\/20 Principle]] and [[The Star Principle]].
 
 **[[The War of Art]]** - 4 - 4/11/2022
+
 Book about the creative pursuit, what stands between a person and being creative and different ways to fight it. Read if you’re interested in any way of creative outlet. It has many common points with [[The practice]], and also with [[The Inner Game of Tennis]] (it’s subtitle is “Winning the inner creative battle”)
 
 **[[The 12 Lives of Alfred Hitchcock]]** - 4 - 31/10/2022
