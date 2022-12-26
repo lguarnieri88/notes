@@ -5,16 +5,32 @@ title: My Bookshelf
 This are the books I’ve been reading, my comments and rating. Some of them have specific notes, which range between random thoughts and incomplete summaries.
 
 The rating can be loosely interpreted as:
+
 5: Will read again, recommend unconditionally
+
 4: Great book, definitely recommended
+
 3: Good, recommended if you are interested in the topic.
+
 2: Did not enjoy it.
+
 1: Actively avoid.
 
 
-**[[The Dip]]** - 4 - 13/11/2022
+**Todos los fuegos el fuego** - 4 - 20/12/2022
+Another classic collection of short stories. I may not be Cortázar greatest fan, but some of the texts here are amazing. Particularly the first two (Autopista del Sur and La salud de los enfermos) blew my mind, but in general they are one of the best short story collections by Cortázar.
 
-Book about quitting. Contrary to common belief (don’t quit!), the book tries to show how not only should we not consider quitting shameful, but strategic. Learn to know where you stand, and make a decision, the options are to carry on with the difficulties and end up stronger on the other side or quit to focus your energy elsewhere. Pick your battles. Many of the arguments resonate with both [[The 80\/20 Principle]] and [[The Star Principle]].
+**El llano en llamas** - 3 - 11/12/2022
+A collection of short stories by Juan Rulfo, an absolute classic of Mexican literature. I did not enjoy it so much as Pedro Páramo, but still found the stories engaging. Violence and nonsense stood out as topics throughout the different stories. It strikes me how much of the ethos in the stories I can find very much present in day to day Mexican life.
+
+**[[Ways of seeing]]** - 4 - 6/12/2022
+Book from a series of tv shows the BBC launched in 1972. Each chapter is a sort of essay on a particular topic: how did the reproducibility of art change the way we experience it, the tradition of oil painting, the nude and the publicity image. They are short and nice introductions to the topics they discuss. 
+
+** The Liar’s Dictionary** - 3 - 5/12/2022
+Novel about a present day woman that works at an encyclopedic dictionary and one of the XIXth century editors of the dictionary. As a person that spends quite some time thinking about words and language I liked it, but I would have enjoyed a more direct link between both stories. It brings up the questions of what is a personal dictionary, and why do we crystallize meaning in words. 
+
+**[[The Dip]]** - 4 - 13/11/2022
+Book about quitting. Contrary to common belief (don’t quit!), the book tries to show how to consider quitting as a strategic move. Learn to know where you stand and make a decision, the options are to carry on with the difficulties and end up stronger on the other side or quit to focus your energy elsewhere. Pick your battles. Many of the arguments resonate with both [[The 80\/20 Principle]] and [[The Star Principle]].
 
 **[[The War of Art]]** - 4 - 4/11/2022
 
