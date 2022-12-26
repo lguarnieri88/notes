@@ -6,4 +6,4 @@ One way to increase the output of ideas is to use different frames. A frame give
 
 See Also:
 
-* [YouTube](https://www.youtube.com/watch?v=7OAQXg8rAQk) When we open our eyes, we never see what’s there, we only ever see what was useful to see in the past
+* [When we open our eyes, we never see what’s there, we only ever see what was useful to see in the past](https://www.youtube.com/watch?v=7OAQXg8rAQk) 
