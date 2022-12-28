@@ -7,7 +7,8 @@ These are the books I’ve been reading, my comments and [[Book ratings|rating]]
 
 
 **Todos los fuegos el fuego** - 4 - 20/12/2022
-<img style="float: right;" src="/assets/todos_los_fuegos.jpeg" width="50"/>
+
+<img style="float: right;" src="/assets/todos_los_fuegos.jpeg" width="100"/>
 Another classic collection of short stories. I may not be Cortázar's greatest fan, but some of the texts here are amazing. Particularly the first two (Autopista del Sur and La salud de los enfermos) blew my mind, but in general they are one of the best short story collections by Cortázar.
 
 **El llano en llamas** - 3 - 11/12/2022
