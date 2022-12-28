@@ -17,8 +17,9 @@ The rating can be loosely interpreted as:
 1: Actively avoid.
 
 
-**Todos los fuegos el fuego** - 4 - 20/12/2022
 
+**Todos los fuegos el fuego** - 4 - 20/12/2022
+<img src="/assets/todos_los_fuegos.jpeg"/>
 Another classic collection of short stories. I may not be Cortázar greatest fan, but some of the texts here are amazing. Particularly the first two (Autopista del Sur and La salud de los enfermos) blew my mind, but in general they are one of the best short story collections by Cortázar.
 
 **El llano en llamas** - 3 - 11/12/2022
