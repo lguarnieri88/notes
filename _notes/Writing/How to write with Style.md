@@ -9,7 +9,7 @@ Although there is no specific or formal definition, elements of style are the re
 As for the list:
 1. Find a subject you care about
 2. Don’t ramble
-3. Keep it simple. See also [[Several Short Sentences on Writing]]
+3. Keep it simple. See also [[Several Short Sentences about Writing]]
 4. Have the guts to cut things out
 5. Sound like yourself, nothing worse that someone trying to sound like someone else.
 6. Say what you mean to say. 

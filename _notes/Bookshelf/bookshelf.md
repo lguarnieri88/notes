@@ -169,7 +169,7 @@ Perhaps Navarro’s best known novel. I’ve been meaning to read it for quite s
 
 *Before 2022*
 
-[[The 80\/20 Principle]]
+[[The 80/20 Principle]]
 
 By Richard Koch
 
