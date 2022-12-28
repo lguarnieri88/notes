@@ -98,4 +98,89 @@ Great book about how to communicate better with data. From the basics of which c
 
 **The Witness (El entenado) - JJ Saer - 3**  - [[El entenado]]
 
-A man in his eighties, living in XVth century Spain writes about his experience living ten years among the Indians in America. Half adventure book, half philosophical treaty, written in beautiful prose and dealing with perception, memory and reality. Made me think of Gulliver’s Travels throughout. I loved it but it does get a bit heavy at points. 
+A man in his eighties, living in XVth century Spain writes about his experience living ten years among the Indians in America. Half adventure book, half philosophical treaty, written in beautiful prose and dealing with perception, memory and reality. Made me think of Gulliver’s Travels throughout. I loved it but it does get a bit heavy at points.
+
+
+**[[The 12 Week Year]]**
+
+By Brian P. Moran
+
+Book about shortening your execution cycle from 12 months to 12 weeks. The main idea is to shorten the cycle so you get the improved performance that comes with deadlines and not losing sight of your goals. Besides the main idea, it presents a whole system to improve productivity.
+
+**We are the Weather**
+By Jonathan Safran Foer
+
+Mastery
+By Robert Greene
+
+My Phantoms
+By Gwendoline Riley 
+
+The Graveyard Book
+By Neil Gainman
+
+Un Campeón Desparejo
+By Adolfo Bioy Casares
+
+Como una novela
+Daniel Pennac
+
+Las Aventuras de la China Iron
+By Gabriela Cabezón Cámara
+
+The Minimalist Entrepreneur
+By Sahil Lavinia
+
+We have Always Lived in the Castle
+By Shirley Jackson
+
+Enchiridion?
+By Epictetus
+
+Dormir al Sol
+By Adolfo Bioy Casares
+
+Americo Vespucio
+By Stefan Zweig
+
+Autorretrato sin mí
+By Fernando Aramburu
+
+The Inner Game of Tennis
+By W. Timothy Gallway
+
+Poeta Chileno
+By Alejandro Zambra
+
+Breaking the Maya Code
+By Michael D. Coe
+
+[[The Star Principle]]
+
+By Richard Koch - 3
+
+Similar to [[The 80\/20 Principle]], the book presents a principle and discusses its many applications. Like the 80/20 principle, the main idea is good but it had a lot of padding around it. Worth knowing what it’s about but perhaps you don’t need to read the whole book.
+
+**La Casa del Padre**
+
+/By Justo Navarro/ - 3
+
+Perhaps Navarro’s best known novel. I’ve been meaning to read it for quite some time and it didn’t disappoint. I’m partial to many of his themes (doubles, symmetries, etc.) but most of all I love his prose style, rhythmic and fluid at the same time. I would recommend it for anyone interested in good Spanish prose.
+
+*Before 2022*
+
+[[The 80\/20 Principle]]
+
+By Richard Koch
+
+01/03/2021 - 3
+
+Book about the Pareto principle, which is all about imbalances. One possible formulation: the minority of causes give way to the majority of consequences. The general conclusion: focus on that minority and not much else.
+
+[[Bird By Bird]]
+
+By Anne Lamott
+
+30/8/2021 - 3
+
+Book about how to sit down, quiet the voices in your head and get pen to paper.  At parts it feels a bit too personal, and tells more about the author than about writing in general. The advice is more on the process of writing than on the details of how to do it, but still solid. 
