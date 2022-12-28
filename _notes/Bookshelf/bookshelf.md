@@ -2,12 +2,12 @@
 title: My Bookshelf
 ---
 
-This are the books I’ve been reading, my comments and [[Book ratings | rating]]. Some of them have specific notes, which range between random thoughts and incomplete summaries.
+This are the books I’ve been reading, my comments and [[Book ratings|rating]]. Some of them have specific notes, which range between random thoughts and incomplete summaries.
 
 
 
 **Todos los fuegos el fuego** - 4 - 20/12/2022
-<img align="left" src="/assets/todos_los_fuegos.jpeg" width="50"/>
+<img src="/assets/todos_los_fuegos.jpeg" width="50"/>
 Another classic collection of short stories. I may not be Cortázar's greatest fan, but some of the texts here are amazing. Particularly the first two (Autopista del Sur and La salud de los enfermos) blew my mind, but in general they are one of the best short story collections by Cortázar.
 
 **El llano en llamas** - 3 - 11/12/2022
