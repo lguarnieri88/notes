@@ -2,24 +2,12 @@
 title: My Bookshelf
 ---
 
-This are the books I’ve been reading, my comments and rating. Some of them have specific notes, which range between random thoughts and incomplete summaries.
-
-The rating can be loosely interpreted as:
-
-5: Will read again, recommend unconditionally
-
-4: Great book, definitely recommended
-
-3: Good, recommended if you are interested in the topic.
-
-2: Did not enjoy it.
-
-1: Actively avoid.
+This are the books I’ve been reading, my comments and [[Book ratings | rating]]. Some of them have specific notes, which range between random thoughts and incomplete summaries.
 
 
 
 **Todos los fuegos el fuego** - 4 - 20/12/2022
-<img src="/assets/todos_los_fuegos.jpeg"/>
+<img src="/assets/todos_los_fuegos.jpeg" width="50"/>
 Another classic collection of short stories. I may not be Cortázar greatest fan, but some of the texts here are amazing. Particularly the first two (Autopista del Sur and La salud de los enfermos) blew my mind, but in general they are one of the best short story collections by Cortázar.
 
 **El llano en llamas** - 3 - 11/12/2022
@@ -36,7 +24,7 @@ Novel about a present day woman that works at an encyclopedic dictionary and one
 
 **[[The Dip]]** - 4 - 13/11/2022
 
-Book about quitting. Contrary to common belief (don’t quit!), the book tries to show how to consider quitting as a strategic move. Learn to know where you stand and make a decision, the options are to carry on with the difficulties and end up stronger on the other side or quit to focus your energy elsewhere. Pick your battles. Many of the arguments resonate with both [[The 80\/20 Principle]] and [[The Star Principle]].
+Book about quitting. Contrary to common belief (don’t quit!), the book tries to show how to consider quitting as a strategic move. Learn to know where you stand and make a decision, the options are to carry on with the difficulties and end up stronger on the other side or quit to focus your energy elsewhere. Pick your battles. Many of the arguments resonate with both [[The 80-20 Principle]] and [[The Star Principle]].
 
 **[[The War of Art]]** - 4 - 4/11/2022
 
@@ -160,7 +148,7 @@ By Michael D. Coe
 
 By Richard Koch - 3
 
-Similar to [[The 80\/20 Principle]], the book presents a principle and discusses its many applications. Like the 80/20 principle, the main idea is good but it had a lot of padding around it. Worth knowing what it’s about but perhaps you don’t need to read the whole book.
+Similar to [[The 80-20 Principle]], the book presents a principle and discusses its many applications. Like the 80/20 principle, the main idea is good but it had a lot of padding around it. Worth knowing what it’s about but perhaps you don’t need to read the whole book.
 
 **La Casa del Padre**
 
@@ -170,7 +158,7 @@ Perhaps Navarro’s best known novel. I’ve been meaning to read it for quite s
 
 *Before 2022*
 
-[[The 80/20 Principle]]
+[[The 80-20 Principle]]
 
 By Richard Koch
 
