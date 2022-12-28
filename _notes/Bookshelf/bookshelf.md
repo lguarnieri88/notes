@@ -8,8 +8,9 @@ These are the books I’ve been reading, my comments and [[Book ratings|rating]]
 
 **Todos los fuegos el fuego** - 4 - 20/12/2022
 
-<img style="float: left;" src="/assets/todos_los_fuegos.jpeg" width="100"/>
+<img style="float: left; margin-right: 1em;" src="/assets/todos_los_fuegos.jpeg" width="100"/>
 Another classic collection of short stories. I may not be Cortázar's greatest fan, but some of the texts here are amazing. Particularly the first two (Autopista del Sur and La salud de los enfermos) blew my mind, but in general they are one of the best short story collections by Cortázar.
+
 
 **El llano en llamas** - 3 - 11/12/2022
 
@@ -19,7 +20,7 @@ A collection of short stories by Juan Rulfo, an absolute classic of Mexican lite
 
 Book from a series of tv shows the BBC launched in 1972. Each chapter is a sort of essay on a particular topic: how did the reproducibility of art change the way we experience it, the tradition of oil painting, the nude and the publicity image. They all revolve around the idea that seeing is a much less spontaneous act than we tend to believe. 
 
-** The Liar’s Dictionary** - 3 - 5/12/2022
+**The Liar’s Dictionary** - 3 - 5/12/2022
 
 Novel about a present day woman that works at an encyclopedic dictionary and one of the XIXth century editors of the dictionary. As a person that spends quite some time thinking about words and language I liked it, but I would have enjoyed a more direct link between both stories. It brings up the questions of what is a personal dictionary, and why do we crystallize meaning in words. 
 
