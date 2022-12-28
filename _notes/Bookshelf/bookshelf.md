@@ -6,7 +6,9 @@ These are the books I’ve been reading, my comments and [[Book ratings|rating]]
 
 
 <img style="float: left; margin-right: 1em;" src="/assets/todos_los_fuegos.jpeg" width="150"/>
-**Todos los fuegos el fuego** - 4 - 20/12/2022
+## **Todos los fuegos el fuego - By Julio Cortázar**
+
+Rating: 4 - Date added: 20/12/2022
 
 Another classic collection of short stories. I may not be Cortázar's greatest fan, but some of the texts here are amazing. Particularly the first two (Autopista del Sur and La salud de los enfermos) blew my mind, but in general they are one of the best short story collections by Cortázar.
 
