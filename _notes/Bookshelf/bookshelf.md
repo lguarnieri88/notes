@@ -4,10 +4,10 @@ title: My Bookshelf
 
 These are the books I’ve been reading, my comments and [[Book ratings|rating]]. Some of them have specific notes, which range between random thoughts and incomplete summaries.
 
-###2022
+##**2022**
 
 <img style="float: left; margin-right: 1em;" src="/assets/todos_los_fuegos.jpeg" width="150"/>
-## **Todos los fuegos el fuego - By Julio Cortázar**
+## Todos los fuegos el fuego - By Julio Cortázar
 
 _Rating: 4 - Date added: 20/12/2022_
 
@@ -21,11 +21,17 @@ _Rating: 3 - Date added: 11/12/2022_
 
 A collection of short stories by Juan Rulfo, an absolute classic of Mexican literature. I did not enjoy it so much as Pedro Páramo, but still found the stories engaging. Violence and nonsense stood out as topics throughout the different stories. It strikes me how much of the ethos in the stories I can find very much present in day to day Mexican life.
 
-**[[Ways of seeing]]** - 4 - 6/12/2022
+<img style="float: left; margin-right: 1em;" src="/assets/berger_seeing.jpg" width="150"/>
+##[[Ways of seeing]] - By John Berger
+
+_Rating: 4 - Date added: 6/12/2022_
 
 Book from a series of tv shows the BBC launched in 1972. Each chapter is a sort of essay on a particular topic: how did the reproducibility of art change the way we experience it, the tradition of oil painting, the nude and the publicity image. They all revolve around the idea that seeing is a much less spontaneous act than we tend to believe. 
 
-**The Liar’s Dictionary** - 3 - 5/12/2022
+<img style="float: left; margin-right: 1em;" src="/assets/williams_dictionary.jpg" width="150"/>
+##The Liar’s Dictionary - By Ellen Williams
+
+_Rating: 3 - Date added: 5/12/2022_
 
 Novel about a present day woman that works at an encyclopedic dictionary and one of the XIXth century editors of the dictionary. As a person that spends quite some time thinking about words and language I liked it, but I would have enjoyed a more direct link between both stories. It brings up the questions of what is a personal dictionary, and why do we crystallize meaning in words. 
 
