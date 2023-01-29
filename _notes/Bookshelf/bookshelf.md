@@ -4,7 +4,22 @@ title: My Bookshelf
 
 These are the books I’ve been reading, my comments and [[Book ratings|rating]]. Some of them have specific notes, which range between random thoughts and incomplete summaries.
 
-##**2022**
+<img style="float: left; margin-right: 1em;" src="/assets/seneca_vida.gif" width="150"/>
+## On the shortness of life, on the happy life, on leisure - By Seneca
+
+_Rating: 3 - Date added: 16/01/2023_
+
+This three treatises discuss many of the topics dear to Seneca, such as freedom, how to use one’s time, the differences between pleasure and virtue, and how to act in many situations. At times repetitive, but well argued and with powerful images throughout.
+
+<img style="float: left; margin-right: 1em;" src="/assets/nabokov_luzhin.jpeg" width="150"/>
+## The Luzhin Defense - By V. Nabokov
+
+_Rating: 3 - Date added: 07/01/2023_   
+
+Novel about a chess player, his obsession with the game and how that affects his personal life. Wonderful prose but read only if interested in Nabokov or Chess.
+
+
+## **2022**
 
 <img style="float: left; margin-right: 1em;" src="/assets/todos_los_fuegos.jpeg" width="150"/>
 ## Todos los fuegos el fuego - By Julio Cortázar
@@ -22,14 +37,14 @@ _Rating: 3 - Date added: 11/12/2022_
 A collection of short stories by Juan Rulfo, an absolute classic of Mexican literature. I did not enjoy it so much as Pedro Páramo, but still found the stories engaging. Violence and nonsense stood out as topics throughout the different stories. It strikes me how much of the ethos in the stories I can find very much present in day to day Mexican life.
 
 <img style="float: left; margin-right: 1em;" src="/assets/berger_seeing.jpg" width="150"/>
-##[[Ways of seeing]] - By John Berger
+## [[Ways of seeing]] - By John Berger
 
 _Rating: 4 - Date added: 6/12/2022_
 
 Book from a series of tv shows the BBC launched in 1972. Each chapter is a sort of essay on a particular topic: how did the reproducibility of art change the way we experience it, the tradition of oil painting, the nude and the publicity image. They all revolve around the idea that seeing is a much less spontaneous act than we tend to believe. 
 
 <img style="float: left; margin-right: 1em;" src="/assets/williams_dictionary.jpg" width="150"/>
-##The Liar’s Dictionary - By Ellen Williams
+## The Liar’s Dictionary - By Ellen Williams
 
 _Rating: 3 - Date added: 5/12/2022_
 
