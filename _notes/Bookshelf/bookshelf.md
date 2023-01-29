@@ -15,7 +15,7 @@ Another classic collection of short stories. I may not be Cortázar's greatest f
 
 
 <img style="float: left; margin-right: 1em;" src="/assets/rulfo_llano.jpg" width="150"/>
-## **El llano en llamas**
+## El llano en llamas - By Juan Rulfo
 
 _Rating: 3 - Date added: 11/12/2022_
 
