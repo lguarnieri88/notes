@@ -4,16 +4,20 @@ title: My Bookshelf
 
 These are the books I’ve been reading, my comments and [[Book ratings|rating]]. Some of them have specific notes, which range between random thoughts and incomplete summaries.
 
+###2022
 
 <img style="float: left; margin-right: 1em;" src="/assets/todos_los_fuegos.jpeg" width="150"/>
 ## **Todos los fuegos el fuego - By Julio Cortázar**
 
-Rating: 4 - Date added: 20/12/2022
+_Rating: 4 - Date added: 20/12/2022_
 
 Another classic collection of short stories. I may not be Cortázar's greatest fan, but some of the texts here are amazing. Particularly the first two (Autopista del Sur and La salud de los enfermos) blew my mind, but in general they are one of the best short story collections by Cortázar.
 
 
-**El llano en llamas** - 3 - 11/12/2022
+<img style="float: left; margin-right: 1em;" src="/assets/rulfo_llano.jpg" width="150"/>
+## **El llano en llamas**
+
+_Rating: 3 - Date added: 11/12/2022_
 
 A collection of short stories by Juan Rulfo, an absolute classic of Mexican literature. I did not enjoy it so much as Pedro Páramo, but still found the stories engaging. Violence and nonsense stood out as topics throughout the different stories. It strikes me how much of the ethos in the stories I can find very much present in day to day Mexican life.
 
@@ -159,7 +163,7 @@ Similar to [[The 80-20 Principle]], the book presents a principle and discusses 
 
 Perhaps Navarro’s best known novel. I’ve been meaning to read it for quite some time and it didn’t disappoint. I’m partial to many of his themes (doubles, symmetries, etc.) but most of all I love his prose style, rhythmic and fluid at the same time. I would recommend it for anyone interested in good Spanish prose.
 
-*Before 2022*
+###Before 2022
 
 [[The 80-20 Principle]]
 
