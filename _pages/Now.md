@@ -1,5 +1,8 @@
-# Now - Q1 - 2023
-#Zettelkasten #publish
+---
+layout: page
+title: Now
+permalink: /now
+---
 
 My son is starting to read, so I’m having fun helping him do that and also convincing him that 2 + 3 = 3 + 2. In the last few months he’s also started “playing” chess (in the sense that he now knows how to move the pieces) so I’ll be trying to see if he goes on to make some progress with chess as well.
 
