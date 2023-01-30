@@ -1,5 +1,6 @@
-# A Scrupulous Writer
-#Zettelkasten #publish
+---
+title: A Scrupulous Writer
+---
 
 In [[Politics and the English Language]], George Orwell says that a scrupulous writer will ask himself four questions in every sentence he writes:
 

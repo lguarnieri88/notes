@@ -4,7 +4,7 @@ title: My Bookshelf
 
 These are the books I’ve been reading, my comments and [[Book ratings|rating]]. Some of them have specific notes, which range between random thoughts and incomplete summaries.
 
-<img style="float: left; margin-right: 1em;" src="/assets/isaacson_leonardo.jpg" width="150"/>
+<img style="float: left; margin-right: 1em;" src="/assets/isaacson_leonardo.jpg" width="170"/>
 ## [[Leonardo Da Vinci]] - By W. Isaacson
 
 _Rating: 4 - Date added: 29/01/2023_
@@ -51,7 +51,7 @@ _Rating: 4 - Date added: 6/12/2022_
 Book from a series of tv shows the BBC launched in 1972. Each chapter is a sort of essay on a particular topic: how did the reproducibility of art change the way we experience it, the tradition of oil painting, the nude and the publicity image. They all revolve around the idea that seeing is a much less spontaneous act than we tend to believe. 
 
 <img style="float: left; margin-right: 1em;" src="/assets/williams_dictionary.jpg" width="150"/>
-## The Liar’s Dictionary - By Ellen Williams
+## The Liar’s Dictionary - By Eley Williams
 
 _Rating: 3 - Date added: 5/12/2022_
 
@@ -118,6 +118,8 @@ Outline of a western, anti-philosophical tradition that started in Rome with Fro
 **Conversaciones con Thomas Bernhard** - 2
 
 Book of interviews with the Austrian writer. It has some interesting topics (prose as music, postwar literature in Germany, etc.) but nothing great. I would only recommend it for die hard fans of TB, but frankly I don’t see any instance I would rather read this book than one of his novels.
+
+
 
 <img style="float: left; margin-right: 1em;" src="/assets/danchev_magritte.jpg" width="150"/>
 **Magritte: A Life** - 4

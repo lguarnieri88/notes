@@ -1,5 +1,6 @@
-# Writing tactics
-#Zettelkasten #publish
+---
+title: Writing tactics
+---
 
 In [[Politics and the English Language]], Orwell gives his advice to all writers:
 

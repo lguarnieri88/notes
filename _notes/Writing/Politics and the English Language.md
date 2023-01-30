@@ -1,5 +1,6 @@
-# Politics and the English Language
-#Zettelkasten #RefNote/article #publish
+---
+title: Politics and the English Language
+---
 
 Source: Essay from 1946 by George Orwell
 

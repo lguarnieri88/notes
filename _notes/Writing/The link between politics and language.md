@@ -1,5 +1,6 @@
-# The link between politics and language
-#Zettelkasten #publish
+---
+title: The link between politics and language
+---
 
 In [[Politics and the English Language]], Orwell argues that “In our time (1946), political writing is bad writing.” And declares: 
 

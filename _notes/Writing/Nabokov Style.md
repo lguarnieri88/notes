@@ -1,5 +1,6 @@
-# Nabokov’s comments on Style
-#Zettelkasten #Writing #publish
+---
+title: Nabokov’s comments on Style
+---
 
 Source: Lecture fragment from 1941. From the book “Think, Write, Speak”
 

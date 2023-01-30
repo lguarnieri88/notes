@@ -2,7 +2,7 @@
 Title: Writing Rules
 ---
 
-Some rules I try to follow when writing. These are more about the mechanics of writing rather than the higher level advice on process (don’t judge your first draft, etc.).
+Some rules I try to follow when writing. These are more about the mechanics of writing rather than the higher level/meta advice on process (don’t judge your first draft, etc.).
 
 1. The fewer words, the better.
 2. Don’t use ready-made phrases or images.

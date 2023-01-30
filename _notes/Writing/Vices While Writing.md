@@ -1,7 +1,9 @@
-# Vices While Writing
-#Zettelkasten #publish
+---
+title: Vices While Writing
+---
 
-Vices that writers with bad habits use:
+In [[Politics and the English Language]], George Orwell points out some vices that writers with bad habits use:
+
 1. Dying metaphors. These are the metaphors in between the live metaphors, which assist the reader with a vivd image and the dead ones (e.g. _iron resolution_, which have reverted into common usage. Examples are: _stand shoulder to shoulder with, pay into the hands of, Achilles’ heel, Swan Song_. They are vague and 
 2. Verbal False Limbs. The replacement of simple verbs by elaborate constructions, usually using nouns and passive voice. e.g. _In my opinion it is not an unjustifiable opinion_ in stead of _I think_.
 3. Pretentious diction.
