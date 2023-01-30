@@ -4,8 +4,15 @@ title: My Bookshelf
 
 These are the books I’ve been reading, my comments and [[Book ratings|rating]]. Some of them have specific notes, which range between random thoughts and incomplete summaries.
 
+<img style="float: left; margin-right: 1em;" src="/assets/isaacson_leonardo.jpg" width="150"/>
+## [[Leonardo Da Vinci]] - By W. Isaacson
+
+_Rating: 4 - Date added: 29/01/2023_
+
+Biography of the most iconic renaissance man. Leonardo himself is perhaps the most interesting person to write a biography, and the book does a great job of describing him in all his greatness, while pointing out that he was an ordinary man with an extraordinary curiosity. The book uses his notebooks as a central point of the narrative and goes from there to the paintings, travels, patrons and all the other aspects.
+
 <img style="float: left; margin-right: 1em;" src="/assets/seneca_vida.gif" width="150"/>
-## On the shortness of life, on the happy life, on leisure - By Seneca
+## [[Shortness life | On the shortness of life, on the happy life, on leisure]] - By Seneca
 
 _Rating: 3 - Date added: 16/01/2023_
 
