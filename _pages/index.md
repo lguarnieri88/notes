@@ -15,8 +15,3 @@ If you want to know what I've been reading you can check my [[Bookshelf]].
 
 <img style="float: left; margin-right: 1em;" src="/assets/grape_harvest.jpg"/>
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
