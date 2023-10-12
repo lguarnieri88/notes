@@ -2,7 +2,7 @@
 Title: Notes on Feedback 
 ---
 
-Source: [[What Got You here Won't Get you There...]]
+Source: [[What Got You Here]]
 
 Two problems with feedback - The recipient doesn’t want to hear it, and the rest of the world doesn’t want to give it.
 
@@ -16,4 +16,4 @@ It has to have four key elements:
 * Be directed towards the future rather than obsessed with negative past
 * Be phrased in a way that suggests you will act on it.
 
-Also: [[Ways of getting feedback from observing others]]
+Also: [[Ways of Getting Feedback]]
