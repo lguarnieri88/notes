@@ -2,7 +2,7 @@
 Title: Ways of getting feedback from observing others 
 ---
 
-Source: [[What Got You here Won't Get you There...]]
+Source: [[What Got You Here]]
 
 Not all feedback comes from asking direct questions (solicited) or by hearing what people volunteer. You can get a lot of valuable information by paying attention to what others do and from the way they act around you. Here are five ways of doing that. 
 
