@@ -2,7 +2,7 @@
 title: Do This and Awareness Instructions
 ---
 
-You can classify instructions in two kinds. 
+You can classify instructions in two kinds.
 
 “Do this” instructions are prescriptive. The teacher tells the student what to do. “Stand tall”, “relax your neck muscles” “put the fingers near the instrument”, etc. These have a number of problems. 
 
