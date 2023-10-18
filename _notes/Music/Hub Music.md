@@ -12,5 +12,6 @@ title: Music
 
 Books:
 [[How to listen to Jazz]]
+
 [[The Inner Game of Music]]
 
